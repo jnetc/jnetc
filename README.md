@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jnetc
+- 👋 Hi, I’m Anton aka  Jnetc
 - 👀 I’m interested in UI-design, Front-End, Full-Stack Development
 - 🌱 I’m currently learning HTML5, CSS3, JS, TS, React, Gatsby, Next, Node(Express.js), GraphQL
 - 💞️ I’m looking to collaborate on ...
