@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anton aka ЖнецЪ(Jnetc)
-- 👀 I’m interested in Web/UI-design Development, Front-End, Full-Stack Development
+- 👀 I’m interested in Web/UI-design Development, Front-End
 - 🌱 I’m currently learning: 
 - HTML5, CSS3/SCSS, Styled-Components, 
 - JS, TS, React.js, Gatsby.js, Next.js, Node.js(Express.js), GraphQL, PostgreSQL
