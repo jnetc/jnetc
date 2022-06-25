@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anton aka ЖнецЪ(Jnetc)
+- 👋 Hi, I’m Anton.
 - 👀 I’m interested in Web/UI-design Development, Front-End
 - 🌱 I’m currently learning: TypeScript
 - :trophy: HTML5, CSS3/SCSS, Styled-Components, CSS-Modules, 
