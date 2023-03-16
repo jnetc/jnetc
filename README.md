@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning: TypeScript
 - :trophy: HTML5, CSS3/SCSS, Styled-Components, CSS-Modules, 
 - :heavy_check_mark: JavaScript, TypeScript, React.js, Gatsby.js, Next.js, Vue.js, Node.js(Express.js), GraphQL, Astro.js
-- :art: Figma, Adobe (XD, Illustrator, Photoshop), Blender
+- :art: Figma, Illustrator, Photoshop, Blender
 - :globe_with_meridians: Contentful, Sanity.io, DatoCMS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.devan.fi
 
 <!---
