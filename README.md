@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton.
 - 👀 I’m interested in Web / UI Development
-- 🌱 I’m currently learning: TypeScript
+- 🌱 I’m currently learning: Svelte / SvelteKit
 - :trophy: HTML5, CSS3/SCSS, Styled-Components, CSS-Modules, 
 - :heavy_check_mark: JavaScript, TypeScript, React.js, Gatsby.js, Next.js, Vue.js, Node.js(Express.js), GraphQL, Astro.js
 - :art: Figma, Illustrator, Photoshop, Blender
