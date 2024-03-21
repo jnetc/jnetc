@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Anton.
 - 👀 I’m interested in Web / UI Development
-- 🌱 I’m currently learning: Svelte, SvelteKit / Astro.js
-- :trophy: HTML5, CSS3/SCSS, Styled-Components, CSS-Modules, 
-- :heavy_check_mark: JavaScript, TypeScript, React.js, Next.js, Vue.js, Node.js(Express.js), GraphQL
-- :art: Figma, Illustrator, Photoshop, Blender
-- :globe_with_meridians: Contentful, Sanity.io, DatoCMS
+- 🌱 I’m currently learning: Svelte, SvelteKit
+- 🏆 HTML5, SVG, CSS3/SCSS, Styled-Components, CSS-Modules, 
+- ✔️ JavaScript, TypeScript, Dart, GraphQL
+- 👻 React.js, Next.js, Vue.js, Astro.js, Flutter
+- 🎨 Figma, Illustrator, Photoshop, Blender
+- 🕸️ Contentful, Sanity, DatoCMS, Prismic 
 - 📫 How to reach me www.devan.fi
 
 <!---
