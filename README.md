@@ -8,6 +8,8 @@
 - 🕸️ Contentful, Sanity, DatoCMS, Prismic 
 - 📫 How to reach me www.devan.fi
 
+
+[![Anton StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/15545116/anton?tab=profile) 
 <!---
 jnetc/jnetc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
