@@ -47,13 +47,6 @@ I’m interested in Web / UI Development
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jnetc&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 <!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnetc&theme=nord&hide_border=true)](https://git.io/streak-stats)
 <picture>
