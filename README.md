@@ -27,7 +27,7 @@ I’m interested in Web / UI Development
 
 --------------------------------------
 
-### 👀 Fullstack tools:
+### 🔥 Fullstack tools:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -47,11 +47,13 @@ I’m interested in Web / UI Development
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jnetc&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🔥 GitHub Streak Stats
 
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnetc&theme=nord&hide_border=true)](https://git.io/streak-stats)
 <picture>
