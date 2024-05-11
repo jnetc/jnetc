@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p>Hi 👋 My name is Anton <br/>  Web / UI Development</p>
+  <p>Hi 👋 I am Anton <br/> Web / UI Development</p>
 </h1>
 
 <br/>
@@ -58,6 +58,7 @@
   </table>
   
 <br/>
+<br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnetc&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -80,21 +81,23 @@
   <tbody>
     <tr>
       <td align="center"> 
-        <img height="96" width="96" src="https://cdn.simpleicons.org/Figma" />
+        <img height="128" width="128" src="https://cdn.simpleicons.org/Figma" />
       </td>
       <td align="center"> 
-        <img height="96" width="96" src="https://cdn.simpleicons.org/Adobeillustrator" />
+        <img height="128" width="128" src="https://cdn.simpleicons.org/Adobeillustrator" />
       </td>
       <td align="center"> 
-        <img height="96" width="96" src="https://cdn.simpleicons.org/Adobexd" />
+        <img height="128" width="128" src="https://cdn.simpleicons.org/Adobexd" />
       </td>
       <td align="center"> 
-        <img height="96" width="96" src="https://cdn.simpleicons.org/Adobephotoshop" />
+        <img height="128" width="128" src="https://cdn.simpleicons.org/Adobephotoshop" />
       </td>
     </tr>
   </tbody>
 </table>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
