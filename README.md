@@ -112,7 +112,6 @@
       <th scope="col">Bootstrap</th>
       <th scope="col">Bulma</th>
       <th scope="col">SASS</th>
-      <th scope="col">LESS</th>
       <th scope="col">Styled<br/>Components</th>
       <th scope="col">CSS<br/>Modules</th>
     </tr>
@@ -146,9 +145,6 @@
        <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/SASS" />
       </td>
-       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Less" />
-      </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/styledcomponents" />
       </td>
@@ -164,14 +160,13 @@
       <th scope="col">Dart</th>
       <th scope="col">Flutter</th>
       <th scope="col">PWA</th>
-      <th scope="col">Markdown</th>
       <th scope="col">Firebase</th>
       <th scope="col">Supabase</th>
       <th scope="col">MongoDB</th>
       <th scope="col">Vercel</th>
       <th scope="col">Netlify</th>
-      <th scope="col">Android<br/>Studio</th>
       <th scope="col">VSCode</th>
+      <th scope="col">Markdown</th>
       <th scope="col">Git</th>
     </tr>
   </thead>
@@ -185,9 +180,6 @@
       </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/PWA" />
-      </td>
-      <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Markdown/grey" />
       </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/Firebase" />
@@ -205,10 +197,10 @@
         <img height="48" width="48" src="https://cdn.simpleicons.org/Netlify" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Androidstudio" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Markdown/grey" />
       </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/Git" />
