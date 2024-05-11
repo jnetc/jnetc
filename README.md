@@ -108,7 +108,7 @@
       <th scope="col">Gatsby.js</th>
       <th scope="col">Stencil.js</th>
       <th scope="col">Node.js</th>
-      <th scope="col">Tailwid CSS</th>
+      <th scope="col">Tailwid<br/>CSS</th>
       <th scope="col">Bootstrap</th>
       <th scope="col">Bulma</th>
       <th scope="col">SASS</th>
@@ -170,9 +170,9 @@
       <th scope="col">MongoDB</th>
       <th scope="col">Vercel</th>
       <th scope="col">Netlify</th>
-      <th scope="col">Prismic</th>
-      <th scope="col">DatoCMS</th>
-      <th scope="col">Sanity</th>
+      <th scope="col">Android<br/>Studio</th>
+      <th scope="col">VSCode</th>
+      <th scope="col">Git</th>
     </tr>
   </thead>
   <tbody>
@@ -205,13 +205,13 @@
         <img height="48" width="48" src="https://cdn.simpleicons.org/Netlify" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Prismic" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Androidstudio" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/DatoCMS" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Sanity" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Git" />
       </td>
     </tr>
   </tbody>
@@ -220,8 +220,9 @@
   <thead>
     <tr>
       <th scope="col">Contentful</th>
-      <th scope="col">Android<br/>Studio</th>
-      <th scope="col">VSCode</th>
+      <th scope="col">DatoCMS</th>
+      <th scope="col">Sanity</th>
+      <th scope="col">Prismic</th>
     </tr>
   </thead>
   <tbody>
@@ -230,10 +231,13 @@
         <img height="48" width="48" src="https://cdn.simpleicons.org/Contentful" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Androidstudio" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/DatoCMS" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Sanity" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Prismic" />
       </td>
     </tr>
   </tbody>
