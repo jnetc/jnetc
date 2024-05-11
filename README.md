@@ -1,68 +1,251 @@
-Hi 👋 My name is Anton
-======================
+<h1 align="center">
+  <p>Hi 👋 My name is Anton <br/>  Web / UI Development</p>
+</h1>
 
-I’m interested in Web / UI Development
+<br/>
+
+<h3 align="center">🌱 I’m currently learning</h3> 
+<p align="center">
+  <img height="96" width="96" src="https://cdn.simpleicons.org/Svelte" />
+</p>
+
+<br/>
+
+<h3 align="center"> 🔥 I use most often for frontend develop: </h3>
+
+<div align="center">
+  <table border="0">
+    <thead>
+      <tr>
+        <th scope="col">HTML5</th>
+        <th scope="col">SVG</th>
+        <th scope="col">CSS3</th>
+        <th scope="col">JavaScript</th>
+        <th scope="col">TypeScript</th>
+        <th scope="col">Astro</th>
+        <th scope="col">Next.js</th>
+        <th scope="col">GraphQL</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/HTML5" />
+        </td>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/SVG" />
+        </td>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/CSS3" />
+        </td>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/Javascript" />
+        </td>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/Typescript" />
+        </td>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/Astro" />
+        </td>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/Next.js/grey" />
+        </td>
+        <td align="center"> 
+          <img height="96" width="96" src="https://cdn.simpleicons.org/GraphQL" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+<br/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnetc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+<br/>
+<br/>
+
+<h3 align="center">🎨 Design tools for UI dev:</h3>
+<table align="center" border="0">
+  <thead>
+    <tr>
+      <th scope="col">Figma</th>
+      <th scope="col">Adobe <br/> Illustrator</th>
+      <th scope="col">Adobe XD</th>
+      <th scope="col">Adobe <br/> Photoshop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"> 
+        <img height="96" width="96" src="https://cdn.simpleicons.org/Figma" />
+      </td>
+      <td align="center"> 
+        <img height="96" width="96" src="https://cdn.simpleicons.org/Adobeillustrator" />
+      </td>
+      <td align="center"> 
+        <img height="96" width="96" src="https://cdn.simpleicons.org/Adobexd" />
+      </td>
+      <td align="center"> 
+        <img height="96" width="96" src="https://cdn.simpleicons.org/Adobephotoshop" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+<br/>
+
+<h3 align="center"> 👻 I also have experiense with: </h3>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th scope="col">React.js</th>
+      <th scope="col">Vue.js</th>
+      <th scope="col">Gatsby.js</th>
+      <th scope="col">Stencil.js</th>
+      <th scope="col">Node.js</th>
+      <th scope="col">Tailwid CSS</th>
+      <th scope="col">Bootstrap</th>
+      <th scope="col">Bulma</th>
+      <th scope="col">SASS</th>
+      <th scope="col">LESS</th>
+      <th scope="col">Styled<br/>Components</th>
+      <th scope="col">CSS<br/>Modules</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/React" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Vue.js" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Gatsby" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Stencil" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Node.js" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/TailwindCSS" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Bootstrap" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Bulma" />
+      </td>
+       <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/SASS" />
+      </td>
+       <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Less" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/styledcomponents" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/CSSModules/grey" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center">
+  <thead>
+    <tr>
+      <th scope="col">Dart</th>
+      <th scope="col">Flutter</th>
+      <th scope="col">PWA</th>
+      <th scope="col">Markdown</th>
+      <th scope="col">Firebase</th>
+      <th scope="col">Supabase</th>
+      <th scope="col">MongoDB</th>
+      <th scope="col">Vercel</th>
+      <th scope="col">Netlify</th>
+      <th scope="col">Prismic</th>
+      <th scope="col">DatoCMS</th>
+      <th scope="col">Sanity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Dart" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Flutter" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/PWA" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Markdown/grey" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Firebase" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Supabase" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/MongoDB" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Vercel/grey" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Netlify" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Prismic" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/DatoCMS" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Sanity" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center">
+  <thead>
+    <tr>
+      <th scope="col">Contentful</th>
+      <th scope="col">Android<br/>Studio</th>
+      <th scope="col">VSCode</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Contentful" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Androidstudio" />
+      </td>
+      <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 --------------------------------------
-
-### 🌱 I’m currently learning:
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-
-
---------------------------------------
-
-### ✔️ Languages:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
---------------------------------------
-### 👻 Frontend tools:
-
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
---------------------------------------
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-
---------------------------------------
-
-### 🔥 Fullstack tools:
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
---------------------------------------
-
-### 🎨 Design tools:
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-
---------------------------------------
-- 🕸️ Contentful, Sanity, DatoCMS, Prismic 
+  
 - 📫 How to reach me www.devan.fi
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 
 --------------------------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jnetc&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jnetc&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnetc&theme=nord&hide_border=true)](https://git.io/streak-stats)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jnetc&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jnetc&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jnetc&show_icons=true" />
-</picture>
---->
-
-<!---
-jnetc/jnetc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
