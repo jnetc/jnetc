@@ -1,18 +1,8 @@
 <h1 align="center">
-  <p>Hi 👋 I am Anton <br/> Web / UI Development</p>
+  <p>Hi 👋 I am Anton <br/> Web / UI Developer</p>
 </h1>
 
-<br/>
-
-<h3 align="center">🌱 I’m currently learning</h3> 
-<p align="center">
-  <img height="96" width="96" src="https://cdn.simpleicons.org/Svelte" />
-</p>
-
-<br/>
-
 <h3 align="center"> 🔥 I use most often for frontend develop: </h3>
-
 <div align="center">
   <table border="0">
     <thead>
@@ -238,7 +228,8 @@
   </tbody>
 </table>
 
+<br/>
+
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jnetc&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Anton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jnetc&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
