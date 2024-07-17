@@ -158,8 +158,8 @@
       <th scope="col">MongoDB</th>
       <th scope="col">Vercel</th>
       <th scope="col">Netlify</th>
-      <th scope="col">VSCode</th>
       <th scope="col">Markdown</th>
+      <th scope="col">GitHub</th>
       <th scope="col">Git</th>
     </tr>
   </thead>
@@ -190,10 +190,10 @@
         <img height="48" width="48" src="https://cdn.simpleicons.org/Netlify" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Markdown/grey" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Markdown/grey" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/github" />
       </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/Git" />
