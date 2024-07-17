@@ -193,7 +193,7 @@
         <img height="48" width="48" src="https://cdn.simpleicons.org/Markdown/grey" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/github" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/github/white" />
       </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/Git" />
