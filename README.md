@@ -2,7 +2,7 @@
   <p>Hi 👋 I am Anton <br/> Web / UI Developer</p>
 </h1>
 
-<h3 align="center"> 🔥 I use most often for frontend develop: </h3>
+<h3 align="center"> 🔥 I use most often for UI develop: </h3>
 <div align="center">
   <table border="0">
     <thead>
@@ -12,9 +12,7 @@
         <th scope="col">CSS3</th>
         <th scope="col">JavaScript</th>
         <th scope="col">TypeScript</th>
-        <th scope="col">Astro</th>
-        <th scope="col">Next.js</th>
-        <th scope="col">GraphQL</th>
+        <th scope="col">>Figma</th>
       </tr>
     </thead>
     <tbody>
@@ -35,13 +33,7 @@
           <img height="96" width="96" src="https://cdn.simpleicons.org/Typescript" />
         </td>
         <td align="center"> 
-          <img height="96" width="96" src="https://cdn.simpleicons.org/Astro" />
-        </td>
-        <td align="center"> 
-          <img height="96" width="96" src="https://cdn.simpleicons.org/Next.js/grey" />
-        </td>
-        <td align="center"> 
-          <img height="96" width="96" src="https://cdn.simpleicons.org/GraphQL" />
+          <img height="96" width="96" src="https://cdn.simpleicons.org/Figma" />
         </td>
       </tr>
     </tbody>
@@ -49,45 +41,9 @@
   
 <br/>
 <br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnetc&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 
-<br/>
-<br/>
-
-<h3 align="center">🎨 Design tools for UI dev:</h3>
-<table align="center" border="0">
-  <thead>
-    <tr>
-      <th scope="col">Figma</th>
-<!--       <th scope="col">Adobe <br/> Illustrator</th>
-      <th scope="col">Adobe XD</th>
-      <th scope="col">Adobe <br/> Photoshop</th> -->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"> 
-        <img height="128" width="128" src="https://cdn.simpleicons.org/Figma" />
-      </td>
-<!--       <td align="center"> 
-        <img height="128" width="128" src="https://cdn.simpleicons.org/Adobeillustrator" />
-      </td>
-      <td align="center"> 
-        <img height="128" width="128" src="https://cdn.simpleicons.org/Adobexd" />
-      </td>
-      <td align="center"> 
-        <img height="128" width="128" src="https://cdn.simpleicons.org/Adobephotoshop" />
-      </td> -->
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -98,14 +54,13 @@
     <tr>
       <th scope="col">React.js</th>
       <th scope="col">Vue.js</th>
-      <th scope="col">Gatsby.js</th>
-      <th scope="col">Stencil.js</th>
-      <th scope="col">Node.js</th>
+      <th scope="col">Next.js</th>
+      <th scope="col">Astro</th>
       <th scope="col">Tailwid<br/>CSS</th>
       <th scope="col">Bootstrap</th>
-      <th scope="col">Bulma</th>
       <th scope="col">SASS</th>
-      <th scope="col">Styled<br/>Components</th>
+       <th scope="col">Node.js</th>
+      <th scope="col">Styled<br/>GraphQL</th>
       <th scope="col">CSS<br/>Modules</th>
     </tr>
   </thead>
@@ -118,13 +73,10 @@
         <img height="48" width="48" src="https://cdn.simpleicons.org/Vue.js" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Gatsby" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Next.js/grey" />
       </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Stencil" />
-      </td>
-      <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Node.js" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Astro" />
       </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/TailwindCSS" />
@@ -132,14 +84,14 @@
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/Bootstrap" />
       </td>
-      <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/Bulma" />
-      </td>
        <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/SASS" />
       </td>
+       <td align="center"> 
+        <img height="48" width="48" src="https://cdn.simpleicons.org/Node.js" />
+      </td>
       <td align="center"> 
-        <img height="48" width="48" src="https://cdn.simpleicons.org/styledcomponents" />
+        <img height="48" width="48" src="https://cdn.simpleicons.org/GraphQL" />
       </td>
       <td align="center"> 
         <img height="48" width="48" src="https://cdn.simpleicons.org/CSSModules/grey" />
