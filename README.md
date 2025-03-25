@@ -58,12 +58,12 @@
       <th scope="col">Vue.js</th>
       <th scope="col">Next.js</th>
       <th scope="col">Astro</th>
-      <th scope="col">Tailwid<br/>CSS</th>
+      <th scope="col">Tailwid CSS</th>
       <th scope="col">Bootstrap</th>
       <th scope="col">SASS</th>
        <th scope="col">Node.js</th>
-      <th scope="col">Styled<br/>GraphQL</th>
-      <th scope="col">CSS<br/>Modules</th>
+      <th scope="col">GraphQL</th>
+      <th scope="col">CSS Modules</th>
     </tr>
   </thead>
   <tbody>
