@@ -2,7 +2,7 @@
   <p>Hi 👋 I am Anton <br/> Web / UI Developer</p>
 </h1>
 
-<h3 align="center"> 🔥 I use most often for UI develop: </h3>
+<h2 align="center"> 🔥 I use most often for UI develop: </h2>
 <div align="center">
   <table border="0">
     <thead>
@@ -58,12 +58,12 @@
       <th scope="col">Vue.js</th>
       <th scope="col">Next.js</th>
       <th scope="col">Astro</th>
-      <th scope="col">Tailwid CSS</th>
+      <th scope="col">Tailwid</br>CSS</th>
       <th scope="col">Bootstrap</th>
       <th scope="col">SASS</th>
        <th scope="col">Node.js</th>
       <th scope="col">GraphQL</th>
-      <th scope="col">CSS Modules</th>
+      <th scope="col">CSS</br>Modules</th>
     </tr>
   </thead>
   <tbody>
