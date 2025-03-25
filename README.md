@@ -42,7 +42,6 @@
 <br/>
 <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
-</div>
 
 <br/>
 <br/>
