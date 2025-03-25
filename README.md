@@ -2,6 +2,10 @@
   <p>Hi 👋 I am Anton <br/> Web / UI Developer</p>
 </h1>
 
+<!-- Icons template links -->
+<!-- https://github.com/LitoMore/simple-icons-cdn?tab=readme-ov-file -->
+
+
 <h2 align="center"> 🔥 I use most often for UI develop: </h2>
 <div align="center">
   <table border="0">
