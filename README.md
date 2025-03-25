@@ -26,7 +26,7 @@
           <img height="96" width="96" src="https://cdn.simpleicons.org/SVG" />
         </td>
         <td align="center"> 
-          <img height="96" width="96" src="https://cdn.simpleicons.org/CSS3" />
+          <img height="96" width="96" src="https://cdn.simpleicons.org/CSS" />
         </td>
         <td align="center"> 
           <img height="96" width="96" src="https://cdn.simpleicons.org/Javascript" />
@@ -63,9 +63,9 @@
   <thead>
     <tr>
       <th scope="col">Figma</th>
-      <th scope="col">Adobe <br/> Illustrator</th>
+<!--       <th scope="col">Adobe <br/> Illustrator</th>
       <th scope="col">Adobe XD</th>
-      <th scope="col">Adobe <br/> Photoshop</th>
+      <th scope="col">Adobe <br/> Photoshop</th> -->
     </tr>
   </thead>
   <tbody>
@@ -73,7 +73,7 @@
       <td align="center"> 
         <img height="128" width="128" src="https://cdn.simpleicons.org/Figma" />
       </td>
-      <td align="center"> 
+<!--       <td align="center"> 
         <img height="128" width="128" src="https://cdn.simpleicons.org/Adobeillustrator" />
       </td>
       <td align="center"> 
@@ -81,7 +81,7 @@
       </td>
       <td align="center"> 
         <img height="128" width="128" src="https://cdn.simpleicons.org/Adobephotoshop" />
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
