@@ -41,7 +41,17 @@
   
 <br/>
 <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+ 
+
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnetc&layout=compact&theme=dark&hide_border=true&card_width=300&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnetc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+  
 
 <br/>
 <br/>
